@@ -16,9 +16,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mateus-linhares-942271204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateus-linhares-942271204/" height="30" width="40" /></a>
 </p>
 <br>
-<p><img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGWbX_supyapRdIgat0aD9m83QfbnK5mppuw&usqp=CAU" alt="mateuslinhares-dev" /></p>
+<p><img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGWbX_supyapRdIgat0aD9m83QfbnK5mppuw&usqp=CAU](https://miro.medium.com/v2/resize:fit:640/format:webp/0*Nhbr_-zWJbtkKOyE.gif)" alt="mateuslinhares-dev" /></p>
 <br>
-<p></p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
