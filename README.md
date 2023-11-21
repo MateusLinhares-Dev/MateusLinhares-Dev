@@ -1,4 +1,4 @@
-<h1 align="center">Um pouco de mim e do meu conhecimento</h1>
+<h1 align="center">Bem vindo ao meu GitHub, me chamo Mateus Linhares⚡</h1>
 <h3 align="center">Profissional de integração e automação RPA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuslinhares-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mateuslinhares-dev" /> </p>
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 1st Project string analysis and combination [Image management](https://github.com/MateusLinhares-Dev/Rpa-Sft)
+- 🔭 1st Projeto para análise de caracteres e alteração de textos [Image management](https://github.com/MateusLinhares-Dev/Rpa-Sft)
 
-- 👯 I’m looking to collaborate on [Library Management](https://github.com/MateusLinhares-Dev/Lib-Author-)
+- 👯 Gerenciamento de biblioteca (Projeto em andamento) [Library Management](https://github.com/MateusLinhares-Dev/Lib-Author-)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
