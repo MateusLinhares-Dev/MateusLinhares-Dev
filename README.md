@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mateus Linhares</h1>
-<h3 align="center">A passionate BACKEND developer from Brazil</h3>
+<h1 align="center">Um pouco de mim e do meu conhecimento</h1>
+<h3 align="center">Profissional de integração e automação RPA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuslinhares-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mateuslinhares-dev" /> </p>
 
