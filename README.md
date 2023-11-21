@@ -17,7 +17,7 @@
 </p>
 
 <br>
-<p><img src="0_Nhbr_-zWJbtkKOyE.gif" alt="mateuslinhares-dev" /></p>
+<p><img align="center" src="0_Nhbr_-zWJbtkKOyE.gif" alt="mateuslinhares-dev" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
